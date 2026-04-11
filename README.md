@@ -1,124 +1,124 @@
-# 👨‍💻 Nouman Ahmad — Full Stack Web Developer | React & Next.js Specialist | SEO Expert | UI/UX Designer
+# Nouman Ahmad
 
-**Assalamu Alaikum! 👋 I'm Nouman Ahmad**, a **Top-Rated Web Developer, UI/UX Designer**, and **Software Engineer** from **Jhang, Pakistan** 🇵🇰. I craft high-performing, SEO-optimized, mobile-responsive websites that deliver speed, design, and user satisfaction.
+## Full-Stack Developer & AI Automation Architect
 
----
-
-## 🌟 Who I Am
-
-I’m a **passionate and results-driven developer** focused on writing clean, scalable code and building intuitive interfaces. With years of hands-on experience in the web ecosystem, I specialize in **Frontend and Full Stack Web Development**, with a mission to **build products that users love** and search engines rank high.
-
-> ✨ Whether you need a lightning-fast website, a full-featured app, or a beautiful UI — I’ve got your back!
+📧 nouman.ahmad.coder@gmail.com  
+🌐 https://nouman-ahmad.site  
+📱 +92-371-0691218  
+💼 Crafted-By-Nouman  
+🔗 GitHub: nouman-coder  
 
 ---
 
-## 🚀 What I Offer
+## 🚀 Summary
 
-- 🔥 SEO-Optimized Website Development (Google Core Web Vitals)
-- 📱 100% Responsive, Mobile-First Design
-- ⚛️ Advanced Frontend with React.js, Next.js & TypeScript
-- 🎨 Pixel-Perfect UI/UX Design with Figma & Adobe Photoshop
-- 🔌 REST API Integration for Dynamic Content
-- ⚙️ Backend Integration with PHP & WordPress
-- 🧪 Bug Fixing, Refactoring, and Performance Optimization
-- 🌐 Cross-Browser & Cross-Device Compatibility
-- 🚀 Speed, Accessibility, and Clean Code
+Results-driven **Full-Stack Developer & AI Automation Architect** with hands-on experience in designing, developing, and deploying scalable web applications and intelligent automation systems. Specialized in modern frontend frameworks, backend integrations, and AI-powered solutions that enhance performance and user experience.
+
+Strong expertise in building end-to-end systems—from responsive UI/UX to robust backend architectures—combined with deep knowledge of AI tools, LLMs, and automation workflows. Adept at problem-solving, debugging complex systems, and delivering high-impact digital products that drive real-world value.
 
 ---
 
-## 🛠️ My Core Tech Stack
+## 🧠 Core Competencies
 
-### 💻 Frontend Development  
-`HTML5` | `CSS3` | `JavaScript` | `TypeScript` | `React.js` | `Next.js`
+### Frontend Development
+React.js, Next.js, HTML5, CSS3, JavaScript, TypeScript
 
-### 🎨 Styling & UI  
-`Tailwind CSS` | `Bootstrap` | `Material UI` | `Sass` | `Figma` | `Adobe Photoshop`
+### Styling & UI Frameworks
+Tailwind CSS, Material UI (MUI), Bootstrap, Styled Components
 
-### ⚙️ Backend & CMS  
-`PHP` | `WordPress` | `REST APIs` | `XAMPP` | `cPanel`
+### Animations & Interactions
+Framer Motion, React Spring, AOS
 
-### 🧰 Tools & Platforms  
-`Git` | `GitHub` | `VS Code` | `Postman` | `Chrome DevTools` | `Jest`
+### APIs & Data Handling
+REST APIs, Fetch API, Authentication, JSON
 
----
+### AI & Generative AI
+OpenAI, Prompt Engineering, AI Agents, LLMs, n8n, AI API Integration
 
-## 🧠 Keywords That Define Me (SEO Power Boost)
+### UI/UX & Design
+Responsive Design, Mobile-First Design, Cross-Browser Compatibility
 
-**Top Web Developer Pakistan**, **Frontend Developer Pakistan**, **Full Stack Developer**, **React.js Developer**, **Next.js Expert**, **TypeScript Developer**,  
-**Tailwind CSS Expert**, **WordPress Custom Developer**, **PHP Developer Pakistan**, **Hire Web Developer**,  
-**UI/UX Designer Pakistan**, **SEO Optimized Websites**, **Performance Driven Websites**,  
-**Best Freelance Web Developer**, **Freelancer Pakistan Developer**, **GitHub Web Portfolio**
+### Tools & Version Control
+Git, GitHub, VS Code
 
----
+### Design Tools
+Figma, Adobe Photoshop, Canva
 
-## 📈 Featured Skills
-
-- ✅ Modern Web Architecture & Jamstack
-- ✅ Component-Based Design (React + Tailwind)
-- ✅ Git & Version Control Best Practices
-- ✅ SEO Principles: Metadata, Schema Markup, Speed
-- ✅ Accessibility (A11y) & Semantic HTML
-- ✅ Real-Time & Dynamic Data Integration
+### CMS & Builders
+WordPress, Elementor
 
 ---
 
-## 🧑‍💼 About Me
+## 💼 Professional Experience
 
-🎯 I’m committed to building not just websites — but **experiences that are fast, functional, and future-ready**.  
-💡 I continuously learn the latest tech to deliver modern and maintainable solutions.  
-🌍 I collaborate with clients globally and turn ideas into elegant, fast, and scalable web apps.
+### Full-Stack Developer & AI Automation Architect  
+**ABFA Technologies** — *2025 – Present | Lahore, Pakistan*
 
----
-
-## 💼 Portfolio & Socials
-
-- 🌐 **Portfolio Website:** [https://nouman-ahmad.netlify.app](https://nouman-ahmad.netlify.app)
-- 💼 **LinkedIn:** [linkedin.com/in/nouman-ahmad-806122361](https://www.linkedin.com/in/nouman-ahmad-806122361/)
-- 💻 **GitHub:** [github.com/Crafted-By-Nouman](https://github.com/Crafted-By-Nouman)
-- 📸 **Instagram:** [@nouman.ahmad.002](https://www.instagram.com/nouman.ahmad.002)
-- 📧 **Email:** noumanmeshu02@gmail.com
+- Designed and developed scalable full-stack applications with high performance and reliability  
+- Built AI automation systems using APIs, LLMs, and workflow tools like n8n  
+- Architected intelligent solutions integrating frontend, backend, and AI services  
+- Optimized application performance, reducing load times and improving user experience  
+- Collaborated with teams to deliver production-ready, user-centric solutions  
 
 ---
 
-## 🎯 Vision & Mission
+### Frontend Developer & AI Learner  
+**IA Tech** — *2024 – 2025 | Lahore, Pakistan*
 
-💥 My goal is to become one of the **Top Web Developers in Pakistan** and a **globally recognized Software Engineer**  
-In Shaa Allah! I believe in:
-
-- 🔹 **Creativity & Design Thinking**
-- 🔹 **Quality over Quantity**
-- 🔹 **Clean Code & Performance**
-- 🔹 **Faith, Integrity & Sincerity in Every Line of Code**
+- Developed responsive, pixel-perfect user interfaces using modern frameworks  
+- Enhanced application performance and cross-browser compatibility  
+- Explored and implemented AI automation concepts and intelligent workflows  
+- Improved user engagement through optimized UI/UX design principles  
 
 ---
 
-> 🚀 *"Code smart. Design beautifully. Build for people. Rank on Google."*  
-> ✨ *"Success is in sincerity and continuous learning."*
+## 📂 Featured Projects
+
+### 🔹 ALM Innovators  
+https://alminnovators.com  
+**Tech:** Next.js, TypeScript, Node.js, n8n, Tailwind CSS  
+AI-powered platform delivering intelligent business solutions and automation workflows.
 
 ---
 
-## 🙌 Let's Collaborate
-
-If you're looking for a:
-
-- 🔍 SEO-optimized Web Developer  
-- 🧠 React / Next.js Frontend Expert  
-- 🎨 UI/UX Designer  
-- 🌐 WordPress / PHP Developer  
-- 🤝 Creative Problem Solver
-
-**Let’s build your next big idea together!**
+### 🔹 Tire Repair Ottawa  
+https://tirerepairottawa.ca  
+**Tech:** React.js, TypeScript, n8n, Twilio, Google APIs  
+Service platform with real-time booking and automated customer communication systems.
 
 ---
 
-## ⭐ GitHub Stats (Optional for Visual Boost)
-
-![Nouman's GitHub stats](https://github.com/Crafted-By-Nouman/about-me/)
-![Top Langs](https://github.com/Crafted-By-Nouman/about-me/)
-
----
-
-**Thanks for visiting! May Allah bless your journey too. 😊**
+### 🔹 Your Digital Presence  
+https://yourdigitalpresence.us  
+**Tech:** Next.js, TypeScript, Node.js, Tailwind CSS  
+High-performance digital agency website focused on SEO, scalability, and conversions.
 
 ---
 
+### 🔹 Fixora Mobile  
+https://fixoramobile.us  
+**Tech:** React.js, TypeScript, Tailwind CSS, n8n, API Integrations  
+Doorstep mobile repair platform with automated scheduling and customer workflows.
+
+---
+
+## 💡 Strengths
+
+- Strong communication and teamwork skills  
+- Quick learner with continuous improvement mindset  
+- Adaptable in dynamic environments  
+- Strong problem-solving and debugging ability  
+- Visionary frontend thinking with design sensibility  
+- Focused on performance, accessibility, and user experience  
+- Clean code practices with leadership mindset  
+
+---
+
+## 🌍 Languages
+
+- English  
+- Urdu  
+
+---
+
+⭐ *Passionate about building scalable systems, intelligent automation, and high-impact digital experiences.*
